@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{BFDD66CB-095E-4DD6-AFB9-2E9A75DE0584}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="readme.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckLinks Status">
     <Files>
-      <File FileName="CheckLinksTests/Tests.cs" Line="15" Column="1" />
-      <File FileName="readme.md" Line="1" Column="4" />
+      <File FileName="CheckLinksTests/Tests.cs" Line="1" Column="1" />
+      <File FileName="readme.md" Line="3" Column="1" />
+      <File FileName="CheckLinksConsole/LinkChecker.cs" Line="1" Column="1" />
+      <File FileName="CheckLinksConsole/Program.cs" Line="1" Column="1" />
+      <File FileName="CheckLinks Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CheckLinksTests PreferredExecutionTarget="MonoDevelop.Default" />

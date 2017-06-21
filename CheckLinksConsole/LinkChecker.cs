@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
-internal class LinkChecker
+
+public class LinkChecker
 {
     public static IEnumerable<string> GetLinks(string page)
     {
